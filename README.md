@@ -1,4 +1,5 @@
-<h1 style = "color=red";>Technologies</h1>
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,idea,java,php,vscode,mongodb,github,eclipse,arduino,nodejs)](https://skillicons.dev) <br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
