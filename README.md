@@ -1,5 +1,5 @@
 # Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,idea,java,php,vscode,mongodb,github,eclipse,arduino,nodejs)](https://skillicons.dev)
 
 <!--
 **Achellx/Achellx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
